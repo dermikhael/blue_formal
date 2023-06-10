@@ -1,6 +1,6 @@
 # blue_formal
 
-This template should help get you started developing with Vue 3 in Vite.
+Just A Template For Your Vue Front END
 
 ## Recommended IDE Setup
 
